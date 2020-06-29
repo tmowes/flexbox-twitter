@@ -35,3 +35,6 @@ Studying flexbox css
 <h1 align="center">
   <img alt="Ecoleta" src="https://github.com/tmowes/flexbox-twitter/blob/master/assets/Layout-full.png?raw=true"  width="100%" style="border-radius:20px;"/>
 </h1>
+
+
+Made by Julio Cesar Mowes :wave: [Get in touch!](https://www.linkedin.com/in/julio-cesar-mowes/)
